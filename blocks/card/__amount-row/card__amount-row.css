@@ -1,0 +1,7 @@
+.card__amount-row {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap:3px;
+}
