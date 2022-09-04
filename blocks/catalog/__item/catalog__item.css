@@ -1,3 +1,13 @@
 .catalog__item {
+    box-sizing: border-box;
     margin: 0;
+    border-radius: 10px 10px 30px 30px;
+    border-bottom: 1px solid rgb(186, 186, 186);
+    /* border-right: 1px solid rgb(186, 186, 186); */
+    width: calc(50% - 1vw);
+    height: fit-content;
 }
+/* .catalog__item:nth-of-type(2n) {
+    border-right: 0;
+    border-left: 1px solid rgb(186, 186, 186);
+} */

@@ -1,0 +1,7 @@
+.card__cloth-type {
+    margin: 0;
+    font-size: 12px;
+    max-width: 40%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

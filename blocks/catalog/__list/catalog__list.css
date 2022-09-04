@@ -1,9 +1,10 @@
 .catalog__list {
     margin: 0;
-    padding: 0;
+    padding: 0 4%;
     list-style-type: none;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
+    gap: 2vw;
 }
