@@ -11,7 +11,7 @@
 @import url("../blocks/card/__cloth-info/card__cloth-info.css");
 @import url("../blocks/card/__cloth-type/card__cloth-type.css");
 @import url("../blocks/card/__brand/card__brand.css");
-@import url("../blocks/card/__image/_selected/card__image_selected.css");
+/* @import url("../blocks/card/__image/_selected/card__image_selected.css"); */
 @import url("../blocks/card/__price/card__price.css");
 @import url("../blocks/card/__price/_old/card__price_old.css");
 @import url("../blocks/card/__price/_deleted/card__price_deleted.css");
