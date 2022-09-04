@@ -1,0 +1,7 @@
+.card__cloth-info {
+    margin: 0;
+    padding: 3px 0 0 4px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
